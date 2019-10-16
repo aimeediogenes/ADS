@@ -7,3 +7,11 @@ navbar:
       href: index.html
     - text: "Sobre o GAE"
       href: about.html
+    - text: "Gráficos"
+      href: Graficos.Rmd
+    - text: "monitoria"
+      href: monitoria.Rmd
+    - text: "Teste de Hipótese"
+      href: testedehipotese.Rmd
+    - text: "Banco de dados"
+      href: bancodedados.Rmd

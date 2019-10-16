@@ -8,10 +8,10 @@ navbar:
     - text: "Sobre o GAE"
       href: about.html
     - text: "Gráficos"
-      href: Graficos.Rmd
-    - text: "monitoria"
-      href: monitoria.Rmd
+      href: Graficos.html
+    - text: "Monitoria"
+      href: monitoria.html
     - text: "Teste de Hipótese"
-      href: testedehipotese.Rmd
+      href: testedehipotese.html
     - text: "Banco de dados"
-      href: bancodedados.Rmd
+      href: bancodedados.html

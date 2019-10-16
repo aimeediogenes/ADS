@@ -1,5 +1,5 @@
 ---
-title: "Teste de hipótese"
+Teste de hipótese
 
 Um teste de hipótese é regra que especifica se deve aceitar ou rejeitar uma alegação sobre uma população de acordo com as provas fornecidas por uma amostra de dados.
 
@@ -11,6 +11,9 @@ Um equívoco comum é que os testes de hipóteses estatísticas são projetados 
 
 Exemplos de perguntas que podem ser respondidas com um teste de hipótese:
 A altura média de mulheres universitárias difere de 1,55 m?
+
 O desvio padrão dessa altura é igual ou menor do que 12,5 cm?
+
 Os estudantes do sexo masculino s feminino diferem na altura, em média?
+
 Os estudantes de graduação do sexo masculino apresentam proporção significativamente maior do que a proporção de estudantes do sexo feminino de graduação?

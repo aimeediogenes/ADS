@@ -1,2 +1,16 @@
 ---
 title: "Teste de hipótese"
+
+Um teste de hipótese é regra que especifica se deve aceitar ou rejeitar uma alegação sobre uma população de acordo com as provas fornecidas por uma amostra de dados.
+
+Um teste de hipótese examina duas hipóteses opostas sobre uma população: a hipótese nula e a hipótese alternativa. A hipótese nula é a declaração que está sendo testada. Normalmente, a hipótese nula é uma declaração de "nenhum efeito" ou "nenhuma diferença". A hipótese alternativa é a declaração que você quer ser capaz de concluir que é verdadeira com base em evidências fornecidas pelos dados da amostra.
+
+Com base nos dados amostrais, o teste determina se devemos rejeitar a hipótese nula. Você usa um valor-p para fazer a determinação. Se o valor de p for menor que o nível de significância (denotado como α ou alfa), então você pode rejeitar a hipótese nula.
+
+Um equívoco comum é que os testes de hipóteses estatísticas são projetados para selecionar a mais provável de duas hipóteses. No entanto, na concepção de um teste de hipótese, montamos a hipótese nula como o que queremos desaprovam. Como nós corrigimos o nível de significância para ser pequeno antes da análise (geralmente, um valor de 0,05 funciona bem), quando rejeitamos a hipótese nula, temos a prova estatística de que a alternativa é verdadeira. Por outro lado, se deixarmos de rejeitar a hipótese nula não temos prova estatística de que ela é verdadeira. Isto é porque nós não corrigimos a probabilidade de aceitarmos falsamente a hipótese nula de sermos pequenos.
+
+Exemplos de perguntas que podem ser respondidas com um teste de hipótese:
+A altura média de mulheres universitárias difere de 1,55 m?
+O desvio padrão dessa altura é igual ou menor do que 12,5 cm?
+Os estudantes do sexo masculino s feminino diferem na altura, em média?
+Os estudantes de graduação do sexo masculino apresentam proporção significativamente maior do que a proporção de estudantes do sexo feminino de graduação?

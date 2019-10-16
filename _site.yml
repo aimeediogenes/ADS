@@ -1,0 +1,9 @@
+name: "personal-website"
+output_dir: "."
+navbar:
+  title: "Minha página pessoal"
+  left:
+    - text: "GAE"
+      href: index.html
+    - text: "Sobre o GAE"
+      href: about.html

@@ -1,5 +1,6 @@
 ---
-Teste de hipótese
+title: Teste de hipótese
+---
 
 Um teste de hipótese é regra que especifica se deve aceitar ou rejeitar uma alegação sobre uma população de acordo com as provas fornecidas por uma amostra de dados.
 

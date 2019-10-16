@@ -1,4 +1,5 @@
 ---
 title: "Gráficos"
+---
 
 Existem vários tipos de gráficos para representar a associação de duas ou mais váriaveis.
